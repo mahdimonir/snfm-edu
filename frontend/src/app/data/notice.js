@@ -6,7 +6,7 @@ const notices = [
     date: "2024-07-20",
     type: "admission",
     description:
-      "Online application for admission to all departments is now open. Last date for submission is August 15, 2024.",
+      "Online application for admission to all departments is now open. Last date for submission is August 15, 2025.",
     descriptionBn:
       "সকল বিভাগে ভর্তির জন্য অনলাইন আবেদন শুরু। আবেদনের শেষ তারিখ ১৫ আগস্ট, ২০২৪।",
     important: true,

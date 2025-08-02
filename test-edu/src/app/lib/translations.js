@@ -1,0 +1,66 @@
+const translations = {
+  en: {
+    "site.name": "Sufia Nuria Fazil Madrasha",
+    "site.slogan": "Building the Nation with the Light of Education",
+
+    "nav.home": "Home",
+    "nav.about": "About",
+    "nav.notices": "Notices",
+    "nav.gallery": "Gallery",
+    "nav.contact": "Contact",
+    "nav.academic": "Academic",
+    "nav.teachers": "Teachers & Staff",
+    "nav.students": "Students",
+    "nav.apply": "Apply",
+    "nav.results": "Results",
+
+    "common.read_more": "Read More",
+    "common.view_all": "View All",
+    "common.search": "Search",
+    "common.filter": "Filter",
+    "common.download": "Download",
+    "common.submit": "Submit",
+    "common.cancel": "Cancel",
+    "common.edit": "Edit",
+    "common.delete": "Delete",
+    "common.save": "Save",
+
+    governing_body: "Governing Body",
+    quick_links: "Quick Links",
+    follow_us: "Follow Us",
+    latest_updates: "Latest Updates",
+  },
+  bn: {
+    "site.name": "সুফিয়া নূরিয়া ফাজিল মাদ্রাসা",
+    "site.slogan": "শিক্ষার আলো দিয়ে জাতি গড়ি",
+
+    "nav.home": "হোম",
+    "nav.about": "আমাদের সম্পর্কে",
+    "nav.notices": "নোটিশ",
+    "nav.gallery": "গ্যালারি",
+    "nav.contact": "যোগাযোগ",
+    "nav.academic": "একাডেমিক",
+    "nav.teachers": "শিক্ষক ও কর্মচারী",
+    "nav.students": "শিক্ষার্থীরা",
+    "nav.apply": "আবেদন",
+    "nav.results": "ফলাফল",
+
+    "common.read_more": "আরও পড়ুন",
+    "common.view_all": "সব দেখুন",
+    "common.search": "অনুসন্ধান",
+    "common.filter": "ফিল্টার",
+    "common.download": "ডাউনলোড",
+    "common.submit": "জমা দিন",
+    "common.cancel": "বাতিল",
+    "common.edit": "সম্পাদনা",
+    "common.delete": "মুছে ফেলুন",
+    "common.save": "সংরক্ষণ",
+
+    governing_body: "পরিচালনা পর্ষদ",
+    quick_links: "দ্রুত লিংক",
+    follow_us: "আমাদের ফলো করুন",
+    latest_updates: "সর্বশেষ আপডেট",
+  },
+};
+
+export default translations;
